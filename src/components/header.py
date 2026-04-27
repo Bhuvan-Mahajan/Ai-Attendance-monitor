@@ -180,7 +180,7 @@ def header_home():
             </div>
 
             <div class="sc-wordmark">
-                <div class="sc-wordmark-text">SNAPCLASS</div>
+                <div class="sc-wordmark-text">PREZENCE</div>
                 <div class="sc-tagline">AI-Powered Attendance</div>
             </div>
         </div>
@@ -274,6 +274,6 @@ def header_dashboard():
                     <circle cx="104" cy="36" r="5" fill="#7c3aed" opacity="0.9"/>
                 </svg>
             </div>
-            <div class="sc-dash-text">SNAP<br>CLASS</div>
+            <div class="sc-dash-text">PRE<br>ZENCE</div>
         </div>
     """)

@@ -1,0 +1,26 @@
+# Virtual Environment
+venv/
+.env/
+
+# VS Code
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Mac system files
+.DS_Store
+
+# Streamlit secrets (IMPORTANT)
+.streamlit/secrets.toml
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Build files
+dist/
+build/
